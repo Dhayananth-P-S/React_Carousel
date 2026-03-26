@@ -1,6 +1,6 @@
 # Ex05 Image Carousel
 ## Date: 23-03-2026
-## Reg no: 212224040010
+## Reg no: 212223040039
 ## AIM
 To create a Image Carousel using React 
 
